@@ -286,6 +286,11 @@ p {
     max-width: 500px;
     padding: 5px;
 }
+.hov:hover{
+    color: #4b4b4b;
+    position: relative;
+    padding: 10px;
+}
 
 .Sub-container {
     background-color: rgb(243 240 240 / 43%);
